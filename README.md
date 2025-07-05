@@ -46,7 +46,7 @@ ini salah satu dokumentasi tampilan studoraApp:
   <img src="./assets/db.jpg" width="100" alt="db Page">
   <img src="./assets/icon.jpg" width="100" alt="awal Page">
   <img src="./assets/profile.jpg" width="100" alt="profile Page">
-  <img src="./assets/leaderboard.jpg" width="100" alt="Ldb Page">
+  <img src="./assets/leaderbord.jpg" width="100" alt="Ldb Page">
   <img src="./assets/comingsoon.jpg" width="100" alt="cs Page">
   
 
