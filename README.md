@@ -70,7 +70,7 @@ Aplikasi percakapan laporan client, fokus pada performa UI dan fungsi dinamis me
 ## 🛠️ Teknologi yang Saya Kuasai
 
 ### 👨‍🔧 Skillset
-- React Native / Flutter
+- React Native / Flutter /Flet
 - Firebase / MySQL
 - REST API / Autentikasi
 - UI/UX Mobile / Build & Testing
