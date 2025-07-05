@@ -37,9 +37,13 @@ S1 Informatika – 2023 s.d. Sekarang (Semester 4)
 **React Native + Firebase** (Jan 2025 – Sekarang)  
 Aplikasi edukasi Islami interaktif: fitur soal, autentikasi, dashboard belajar, dan database Firebase.  
 ✅ Sudah build & testing. Digunakan oleh publik.  
-ini salah satu dokumentasi tampilan studoraApp: 
-![login](./assets/login.jpg)
 🔗 [Lihat Repositori](https://github.com/yahya542/scidacapp) 
+
+ini salah satu dokumentasi tampilan studoraApp: 
+<p align="center">
+  <img src="./assets/login.jpg" width="100" alt="Login Page">
+</p>
+
 
 ---
 
