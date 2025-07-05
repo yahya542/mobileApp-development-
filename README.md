@@ -58,7 +58,7 @@ ini salah satu dokumentasi tampilan studoraApp:
 Kontribusi UI untuk sistem akademik kampus: fitur Absensi, KHS, KRS, dan Autentikasi Mahasiswa.
 **Dokumetasi:**
 <p align="center">
-  <img src="./assets/a.png" width="100" alt="Login Page">
+  <img src="./assets/A.png" width="100" alt="Login Page">
   <img src="./assets/b.png width="100" alt="su Page">
   <img src="./assets/c.png" width="100" alt="db Page">
   <img src="./assets/d.png" width="100" alt="awal Page">
