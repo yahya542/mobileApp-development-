@@ -56,6 +56,8 @@ ini salah satu dokumentasi tampilan studoraApp:
 ### 🎓 Volunteer Flutter App
 **Flutter** (Okt 2024 – Jan 2025)  
 Kontribusi UI untuk sistem akademik kampus: fitur Absensi, KHS, KRS, dan Autentikasi Mahasiswa.
+✅ bekerja sama dalam tim, saya sebagai mobile developer 
+🔗 [Lihat Repositori](https://github.com/barengs/adit-mobile-flutter) 
 **Dokumetasi:**
 <p align="center">
   <img src="./assets/A.png" width="100" alt="Login Page">
@@ -96,7 +98,6 @@ Aplikasi percakapan laporan client, fokus pada performa UI dan fungsi dinamis me
 ---
 
 ## 📷 Showcase Project (Desain Menarik)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/0000000/123456789-4f5e9e00-d7f0-11eb-8ebd-c96ff3d0b215.png" width="500" alt="StudoraApp Preview">
 </p>
