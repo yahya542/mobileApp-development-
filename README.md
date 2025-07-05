@@ -42,6 +42,14 @@ Aplikasi edukasi Islami interaktif: fitur soal, autentikasi, dashboard belajar, 
 ini salah satu dokumentasi tampilan studoraApp: 
 <p align="center">
   <img src="./assets/login.jpg" width="100" alt="Login Page">
+  <img src="./assets/signup.jpg" width="100" alt="su Page">
+  <img src="./assets/db.jpg" width="100" alt="db Page">
+  <img src="./assets/icon.jpg" width="100" alt="awal Page">
+  <img src="./assets/profile.jpg" width="100" alt="profile Page">
+  <img src="./assets/leaderboard.jpg" width="100" alt="Ldb Page">
+  <img src="./assets/comingsoon.jpg" width="100" alt="cs Page">
+  
+
 </p>
 
 
