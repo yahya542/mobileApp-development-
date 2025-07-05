@@ -59,10 +59,10 @@ Kontribusi UI untuk sistem akademik kampus: fitur Absensi, KHS, KRS, dan Autenti
 **Dokumetasi:**
 <p align="center">
   <img src="./assets/A.png" width="100" alt="Login Page">
-  <img src="./assets/b.png width="100" alt="su Page">
+  <img src="./assets/b.png"  width="100" alt="su Page">
   <img src="./assets/c.png" width="100" alt="db Page">
   <img src="./assets/d.png" width="100" alt="awal Page">
-  <img src="./assets/f.png width="100" alt="profile Page">
+  <img src="./assets/f.png" width="100" alt="profile Page">
   <img src="./assets/h.png" width="100" alt="Ldb Page">
   <img src="./assets/j.png" width="100" alt="cs Page">
 </p>
