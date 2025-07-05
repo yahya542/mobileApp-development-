@@ -38,7 +38,7 @@ S1 Informatika – 2023 s.d. Sekarang (Semester 4)
 Aplikasi edukasi Islami interaktif: fitur soal, autentikasi, dashboard belajar, dan database Firebase.  
 ✅ Sudah build & testing. Digunakan oleh publik.  
 ini salah satu dokumentasi tampilan studoraApp: 
-![login](../assets/login.jpg)
+![login](./assets/login.jpg)
 🔗 [Lihat Repositori](https://github.com/yahya542/scidacapp) 
 
 ---
